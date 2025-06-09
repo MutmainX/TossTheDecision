@@ -46,7 +46,9 @@ Other method:
    Example: Your sweet tooth is winning. Flip the coin – if it lands on "Yes," grab that ice cream!  
 
 8. **"Road trip playlist DJ"**  
-   Example: Two friends fighting over music genres? Flip the coin to decide whose playlist rules the drive.  
+   Example: Two friends fighting over music genres? Flip the coin to decide whose playlist rules the drive.
+ 
+ 9. **"Propsing your Crush"**  
 
 ## 🤝 Contributing  
 Feel free to fork the repo and submit pull requests for:  
